@@ -75,4 +75,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0240-search-a-2d-matrix-ii](https://github.com/shubh556/DSA/tree/master/0240-search-a-2d-matrix-ii) |
+## Math
+|  |
+| ------- |
+| [0507-perfect-number](https://github.com/shubh556/DSA/tree/master/0507-perfect-number) |
 <!---LeetCode Topics End-->

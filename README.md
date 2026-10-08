@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/shubh556/DSA/tree/master/0022-generate-parentheses) |
 | [0118-pascals-triangle](https://github.com/shubh556/DSA/tree/master/0118-pascals-triangle) |
 ## Sorting
 |  |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/shubh556/DSA/tree/master/0008-string-to-integer-atoi) |
 | [0014-longest-common-prefix](https://github.com/shubh556/DSA/tree/master/0014-longest-common-prefix) |
+| [0022-generate-parentheses](https://github.com/shubh556/DSA/tree/master/0022-generate-parentheses) |
 | [0242-valid-anagram](https://github.com/shubh556/DSA/tree/master/0242-valid-anagram) |
 ## Trie
 |  |
@@ -84,4 +86,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/shubh556/DSA/tree/master/0050-powx-n) |
+## Backtracking
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/shubh556/DSA/tree/master/0022-generate-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/shubh556/DSA/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->

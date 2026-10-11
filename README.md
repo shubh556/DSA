@@ -54,11 +54,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/shubh556/DSA/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/shubh556/DSA/tree/master/0018-4sum) |
 | [0088-merge-sorted-array](https://github.com/shubh556/DSA/tree/master/0088-merge-sorted-array) |
+| [0633-sum-of-square-numbers](https://github.com/shubh556/DSA/tree/master/0633-sum-of-square-numbers) |
 ## Binary Search
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/shubh556/DSA/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/shubh556/DSA/tree/master/0240-search-a-2d-matrix-ii) |
+| [0633-sum-of-square-numbers](https://github.com/shubh556/DSA/tree/master/0633-sum-of-square-numbers) |
 | [0875-koko-eating-bananas](https://github.com/shubh556/DSA/tree/master/0875-koko-eating-bananas) |
 ## String
 |  |
@@ -85,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0050-powx-n](https://github.com/shubh556/DSA/tree/master/0050-powx-n) |
 | [0507-perfect-number](https://github.com/shubh556/DSA/tree/master/0507-perfect-number) |
+| [0633-sum-of-square-numbers](https://github.com/shubh556/DSA/tree/master/0633-sum-of-square-numbers) |
 ## Recursion
 |  |
 | ------- |

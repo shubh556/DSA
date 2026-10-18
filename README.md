@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0367-valid-perfect-square](https://github.com/shubh556/DSA/tree/master/0367-valid-perfect-square) |
 | [0507-perfect-number](https://github.com/shubh556/DSA/tree/master/0507-perfect-number) |
 | [0633-sum-of-square-numbers](https://github.com/shubh556/DSA/tree/master/0633-sum-of-square-numbers) |
+| [2235-add-two-integers](https://github.com/shubh556/DSA/tree/master/2235-add-two-integers) |
 ## Recursion
 |  |
 | ------- |

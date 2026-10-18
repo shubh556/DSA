@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/shubh556/DSA/tree/master/0018-4sum) |
 | [0088-merge-sorted-array](https://github.com/shubh556/DSA/tree/master/0088-merge-sorted-array) |
 | [0633-sum-of-square-numbers](https://github.com/shubh556/DSA/tree/master/0633-sum-of-square-numbers) |
+| [1768-merge-strings-alternately](https://github.com/shubh556/DSA/tree/master/1768-merge-strings-alternately) |
 ## Binary Search
 |  |
 | ------- |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/shubh556/DSA/tree/master/0014-longest-common-prefix) |
 | [0022-generate-parentheses](https://github.com/shubh556/DSA/tree/master/0022-generate-parentheses) |
 | [0242-valid-anagram](https://github.com/shubh556/DSA/tree/master/0242-valid-anagram) |
+| [1768-merge-strings-alternately](https://github.com/shubh556/DSA/tree/master/1768-merge-strings-alternately) |
 ## Trie
 |  |
 | ------- |

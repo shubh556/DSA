@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/shubh556/DSA/tree/master/0240-search-a-2d-matrix-ii) |
 | [0875-koko-eating-bananas](https://github.com/shubh556/DSA/tree/master/0875-koko-eating-bananas) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/shubh556/DSA/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/shubh556/DSA/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/shubh556/DSA/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/shubh556/DSA/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Hash Table
@@ -47,11 +48,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/shubh556/DSA/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/shubh556/DSA/tree/master/0242-valid-anagram) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/shubh556/DSA/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/shubh556/DSA/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/shubh556/DSA/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Counting
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/shubh556/DSA/tree/master/0229-majority-element-ii) |
+| [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/shubh556/DSA/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
 ## Two Pointers
 |  |
 | ------- |

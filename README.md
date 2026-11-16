@@ -106,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0050-powx-n](https://github.com/shubh556/DSA/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/shubh556/DSA/tree/master/0231-power-of-two) |
+| [0258-add-digits](https://github.com/shubh556/DSA/tree/master/0258-add-digits) |
 | [0367-valid-perfect-square](https://github.com/shubh556/DSA/tree/master/0367-valid-perfect-square) |
 | [0507-perfect-number](https://github.com/shubh556/DSA/tree/master/0507-perfect-number) |
 | [0633-sum-of-square-numbers](https://github.com/shubh556/DSA/tree/master/0633-sum-of-square-numbers) |
@@ -144,6 +145,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/shubh556/DSA/tree/master/0258-add-digits) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/shubh556/DSA/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2810-faulty-keyboard](https://github.com/shubh556/DSA/tree/master/2810-faulty-keyboard) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/shubh556/DSA/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
